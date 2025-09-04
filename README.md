@@ -19,6 +19,6 @@ Task 1. **Even or Odd Checker**
    - Accepts a number as input.
    - Determines whether the number is even or odd.
 
-Task 2. **Sum of Integers from 1 to 50**
+Task 2. **Sum of Integers from x to y**
    - Uses a loop to add numbers sequentially.
    - Displays the total sum at the end.
