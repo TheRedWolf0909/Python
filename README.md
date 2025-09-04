@@ -12,3 +12,13 @@ Task 2. **Personalized Greeting**
    - Accepts first and last name as input.
    - Combines them to create a full name.
    - Displays a warm welcome message.
+
+# Assignment 2
+
+Task 1. **Even or Odd Checker**
+   - Accepts a number as input.
+   - Determines whether the number is even or odd.
+
+Task 2. **Sum of Integers from 1 to 50**
+   - Uses a loop to add numbers sequentially.
+   - Displays the total sum at the end.
