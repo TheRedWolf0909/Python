@@ -8,10 +8,13 @@ else:
     print(a, "is an odd number.")
 
 
-# Task 2: Sum of Integers from 1 to 50 Using a Loop
+# Task 2: Sum of Integers from x to y Using a Loop
+
+x = int(input("Enter the starting integer (x): "))
+y = int(input("Enter the ending integer (y): "))
 
 sum = 0
 
-for i in range(1, 51):
+for i in range(x, y + 1):
     sum += i
-print("The sum of numbers from 1 to 50 is:", sum)
+print("The sum of numbers from", x, "to", y, "is: ", sum)
